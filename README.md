@@ -1,7 +1,7 @@
 # NoteAppkmm
 
 kmm App demonstrating Clean Architecture using  jetpackCompose and swift ui 
-using ktor and sqldelight
+using ktor and sql delight
 
 # ScreenShots
 
